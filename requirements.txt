@@ -1,0 +1,4 @@
+pysentimiento
+spacy
+transformers
+rubrix
