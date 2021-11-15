@@ -1,1 +1,1 @@
-# pln_con_rubrix
+# Procesamiento del Lenguaje práctico en Español
