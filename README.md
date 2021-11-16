@@ -1,6 +1,8 @@
 # Procesamiento del Lenguaje práctico en Español
 
 
+GitHub Rubrix: https://github.com/recognai/rubrix
+
 ## Instalar dependencias
 
 ```bash
